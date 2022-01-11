@@ -1,1 +1,1 @@
-You are reading file4.txt from master.
+You are reading file4.txt from master. We are not on featureB branch anymore.
